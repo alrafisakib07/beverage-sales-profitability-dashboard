@@ -1,6 +1,6 @@
 # Beverage Sales & Profitability Dashboard
 
-![Dashboard overview](dashboard-overview.png)
+![Dashboard overview](dashboard-overview.png.png)
 
 Power BI dashboard analyzing beverage sales and profitability across brands, districts, and time.
 
@@ -23,8 +23,8 @@ Power BI dashboard analyzing beverage sales and profitability across brands, dis
 
 ## Files
 
-- `Beverage_Sales_Dashboard.pbix`: the Power BI file (open with Power BI Desktop)
-- `dashboard-overview.png`: dashboard screenshot
+- `Beverage_Sales_Dashboard.pbix.pbix`: the Power BI file (open with Power BI Desktop)
+- `dashboard-overview.png.png`: dashboard screenshot
 
 ## Data
 
